@@ -1,0 +1,9 @@
+c:\users\leisenstein\documents\visual studio 2015\Projects\JaroWinkler\JaroWinkler\bin\Debug\JaroWinkler.exe.config
+c:\users\leisenstein\documents\visual studio 2015\Projects\JaroWinkler\JaroWinkler\obj\Debug\JaroWinkler.csprojResolveAssemblyReference.cache
+c:\users\leisenstein\documents\visual studio 2015\Projects\JaroWinkler\JaroWinkler\obj\Debug\JaroWinkler.frmMain.resources
+c:\users\leisenstein\documents\visual studio 2015\Projects\JaroWinkler\JaroWinkler\obj\Debug\JaroWinkler.Properties.Resources.resources
+c:\users\leisenstein\documents\visual studio 2015\Projects\JaroWinkler\JaroWinkler\obj\Debug\JaroWinkler.csproj.GenerateResource.Cache
+c:\users\leisenstein\documents\visual studio 2015\Projects\JaroWinkler\JaroWinkler\bin\Debug\JaroWinkler.exe
+c:\users\leisenstein\documents\visual studio 2015\Projects\JaroWinkler\JaroWinkler\bin\Debug\JaroWinkler.pdb
+c:\users\leisenstein\documents\visual studio 2015\Projects\JaroWinkler\JaroWinkler\obj\Debug\JaroWinkler.exe
+c:\users\leisenstein\documents\visual studio 2015\Projects\JaroWinkler\JaroWinkler\obj\Debug\JaroWinkler.pdb
